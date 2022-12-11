@@ -1,6 +1,7 @@
 import React, { useState } from 'react';
 import ChildArea from './ChildArea';
 
+
 export const App = () => {
   // const div = {
   //   margin: '100px auto',
