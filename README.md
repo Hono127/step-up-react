@@ -1,9 +1,3 @@
-# 一歩一歩着実に！
-
-# Jakele's React teaching material.
-
-#バージョンの互換性を加味してセクション４からは`codesandbox`で着手することとする
-
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
